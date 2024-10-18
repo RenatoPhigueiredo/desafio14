@@ -1,0 +1,17 @@
+.formes{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5%;
+    background-color: rgba(106, 108, 110, 0.664);
+    padding: 2%;
+}
+.fonte{
+    text-align: center;
+    font-size: xx-large;
+    background-color:dimgray ;
+    width: 100%;
+    margin-top:0 ;
+    margin-right: 0;
+    color: gainsboro;
+}
